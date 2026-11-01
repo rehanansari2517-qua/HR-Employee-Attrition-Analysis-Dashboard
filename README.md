@@ -75,6 +75,8 @@ The KPI values above are transcribed from the dashboard preview. Confirm the und
 <details open>
 <summary><strong>Page 1 — Attrition Overview</strong></summary>
 
+![Attrition Overview dashboard](Attrition%20Overview.jpg)
+
 Explore who is leaving the organization through:
 
 - Employee count, active/inactive employees and attrition KPIs.
@@ -89,6 +91,8 @@ Explore who is leaving the organization through:
 
 <details>
 <summary><strong>Page 2 — Attrition Drivers and Insights</strong></summary>
+
+![Attrition Drivers and Insights dashboard](Attrition%20Driver%20and%20Insights.jpg)
 
 Explore potential attrition-related patterns through:
 
