@@ -179,7 +179,7 @@ Aspiring Data Analyst | Power BI | SQL | Excel | Python
 I enjoy transforming raw data into meaningful insights and building dashboards that support business decision-making.
 
 - GitHub: [@rehanansari2517-qua](https://github.com/rehanansari2517-qua)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- LinkedIn: [Connect with Rehan Ansari](https://www.linkedin.com/in/rehan-ansari-0005753b0/)
 
 ---
 
